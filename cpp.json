@@ -1,0 +1,15 @@
+{
+	//Basic code snippet which will be in a json file.
+	"basiccode": {
+		"prefix": "basiccode",
+		"body": [
+			"#include<iostream>",
+			"using namespace std;",
+			"int main(){",
+			"\t$1",
+			"\treturn 0;",
+			"}"
+		],
+		"description": "Log output to console"
+	}
+}
