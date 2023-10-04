@@ -1,0 +1,77 @@
+
+Welcome to the C++ Tutorials repository! This repository contains a list of code examples and resources related to C++ programming. The code is written by me to learn the basics of C++. The main codes are for the following topics:
+
+- Variables & Comments
+- Variable Scope & Data Types 
+- C++ Basic Input/Output & More
+- C++ Header files & Operators
+- C++ Reference Variables & Typecasting
+- Constants, Manipulators & Operator Precedence
+- C++ Control Structures, If Else and Switch-Case Statement
+- For, While and do-while loops 
+- Break and Continue Statements 
+- Pointers
+- Arrays & Pointers Arithmetic in C++
+- Structures, Unions & Enums in C++
+- Functions & Function Prototypes in C++
+- Call by Value & Call by Reference in C++
+- Inline Functions, Default Arguments & Constant Arguments in C++
+- Recursions & Recursive Functions in C++
+- Function Overloading with Examples in C++
+- Object Oriented Programming in C++
+- Classes, Public and Private access modifiers in C++
+- OOPs Recap & Nesting of Member Functions in C++
+- C++ Objects Memory Allocation & using Arrays in Classes
+- Static Data Members & Methods in C++ OOPS
+- Array of Objects & Passing Objects as Function Arguments in C++
+- Friend Functions in C++
+- Friend Classes & Member Friend Functions in C++
+- More on C++ Friend Functions (Examples & Explanation)
+- Constructors In C++
+- Parameterized and Default Constructors In C++
+- Constructor Overloading In C++
+- Constructors With Default Arguments In C++
+- Dynamic Initialization of Objects Using Constructors
+- Copy Constructor in C++
+- Destructor in C++ in Hindi
+- Inheritance & Its Different Types with Examples in C++
+- Inheritance Syntax & Visibility Mode in C++
+- Single Inheritance Deep Dive: Examples + Code
+- Protected Access Modifier in C++
+- Multilevel Inheritance Deep Dive with Code Example in C++
+- Multiple Inheritance Deep Dive with Code Example in C++
+- Exercise on C++ Inheritance
+- Ambiguity Resolution in Inheritance in C++
+- Virtual Base Class in C++
+- Code Example Demonstrating Virtual Base Class in C++
+- Constructors in Derived Class in C++
+- Solution to Exercise on C++ Inheritance
+- Code Example: Constructors in Derived Class in C++
+- Initialization list in Constructors in C++
+- Revisiting Pointers: new and delete Keywords in C++
+- Pointers to Objects and Arrow Operator in C++
+- Array of Objects Using Pointers in C++
+- this Pointer in C++
+- Polymorphism in C++
+- Pointers to Derived Classes in C++
+- Virtual Functions in C++
+- Virtual Functions Example + Creation Rules in C++
+- Abstract Base Class & Pure Virtual Functions in C++
+- File I/O in C++: Working with Files
+- File I/O in C++: Reading and Writing Files
+- File I/O in C++: Read/Write in the Same Program & Closing Files
+- File I/O in C++: open() and eof() functions
+- C++ Templates: Must for Competitive Programming
+- Writing our First C++ Template in VS Code
+- C++ Templates: Templates with Multiple Parameters
+- C++ Templates: Class Templates with Default Parameters
+- C++ Function Templates & Function Templates with Parameters
+- Member Function Templates & Overloading Template Functions in C++
+- The C++ Standard Template Library (STL)
+- Containers in C++ STL
+- Vector In C++ STL
+- List In C++ STL
+- Maps in C++ STL
+- Sets in C++ STL
+
+Feel free to explore the code examples and resources provided in this repository to enhance your understanding of C++ programming. If you have any questions or feedback, please don't hesitate to reach out.
